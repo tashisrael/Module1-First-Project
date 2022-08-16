@@ -1,8 +1,3 @@
-# Hello-Microverse
-
-> A simple Hello-Microverse page.
-
-
 ## Built With
 
 - HTML
